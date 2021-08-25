@@ -1,0 +1,629 @@
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\appsettings.json
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.StaticWebAssets.xml
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.exe
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.deps.json
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.runtimeconfig.json
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.runtimeconfig.dev.json
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ref\FinalProjectITI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.Views.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.Views.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.AssemblyReference.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.AssemblyInfoInputs.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.AssemblyInfo.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.CoreCompileInputs.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorAssemblyInfo.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorAssemblyInfo.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\staticwebassets\FinalProjectITI.StaticWebAssets.Manifest.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\staticwebassets\FinalProjectITI.StaticWebAssets.xml
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\scopedcss\bundle\FinalProjectITI.styles.css
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.TagHelpers.input.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.TagHelpers.output.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorCoreGenerate.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Delete.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Edit.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_ViewCategories.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorTargetAssemblyInfo.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorTargetAssemblyInfo.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.Views.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.CopyComplete
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\ref\FinalProjectITI.dll
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.pdb
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.genruntimeconfig.cache
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Order\Cart.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Blog\BlogDetails.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\ZIAD\Desktop\Downloads\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\UserWishList.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\appsettings.json
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.StaticWebAssets.xml
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.exe
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.deps.json
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.runtimeconfig.json
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.runtimeconfig.dev.json
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ref\FinalProjectITI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.Views.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.Views.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.AssemblyReference.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.AssemblyInfoInputs.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.AssemblyInfo.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.CoreCompileInputs.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorAssemblyInfo.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorAssemblyInfo.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\staticwebassets\FinalProjectITI.StaticWebAssets.Manifest.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\staticwebassets\FinalProjectITI.StaticWebAssets.xml
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\scopedcss\bundle\FinalProjectITI.styles.css
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.TagHelpers.input.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.TagHelpers.output.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorCoreGenerate.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Delete.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Edit.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\CreateRole.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Blog\BlogDetails.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Order\Cart.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\UserWishList.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_ViewCategories.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorTargetAssemblyInfo.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorTargetAssemblyInfo.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.Views.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.CopyComplete
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\ref\FinalProjectITI.dll
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.pdb
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.genruntimeconfig.cache
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\EditUserInRole.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\ListUsers.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\NotFound.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UserEdit.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Lillian\Desktop\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\appsettings.Development.json
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\appsettings.json
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.StaticWebAssets.xml
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.exe
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.deps.json
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.runtimeconfig.json
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.runtimeconfig.dev.json
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ref\FinalProjectITI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.Views.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\FinalProjectITI.Views.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Humanizer.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\JetBrains.Annotations.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\X.PagedList.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.AssemblyReference.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.AssemblyInfoInputs.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.AssemblyInfo.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.CoreCompileInputs.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.MvcApplicationPartsAssemblyInfo.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.MvcApplicationPartsAssemblyInfo.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorAssemblyInfo.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorAssemblyInfo.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\staticwebassets\FinalProjectITI.StaticWebAssets.Manifest.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\staticwebassets\FinalProjectITI.StaticWebAssets.xml
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\scopedcss\bundle\FinalProjectITI.styles.css
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.TagHelpers.input.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.TagHelpers.output.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorCoreGenerate.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Create.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Delete.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Details.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Edit.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Delete.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Details.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Edit.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Details.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\CreateRole.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Edit.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\EditUserInRole.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\ListUsers.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\NotFound.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Role\UserEdit.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Blog\BlogDetails.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Order\Cart.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Product\UserWishList.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_AdminMenuPartial.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\Shared\_ViewCategories.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorTargetAssemblyInfo.cache
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.RazorTargetAssemblyInfo.cs
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.Views.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.csproj.CopyComplete
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\ref\FinalProjectITI.dll
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.pdb
+E:\ITI Corse\Final Project\PtojectITI\FinalProjectITI\obj\Debug\net5.0\FinalProjectITI.genruntimeconfig.cache
